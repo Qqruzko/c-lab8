@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">ab</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">asd</LastName>
+    <Age xmlns="http://www.MyCompany.com">9</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">jdt</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">tydj</LastName>
+    <Age xmlns="http://www.MyCompany.com">12</Age>
+  </Person>
+</ArrayOfPerson>
